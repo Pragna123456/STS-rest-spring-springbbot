@@ -1,0 +1,1 @@
+<h1 style="color:yellowgreen;">NEW USER REFISTERED SCUEESFULLY.....</h1>

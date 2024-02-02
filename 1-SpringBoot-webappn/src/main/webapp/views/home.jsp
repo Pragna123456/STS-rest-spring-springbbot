@@ -1,0 +1,1 @@
+<h1 style="color:palevioletred">welcome to spring boot web appn</h1>
